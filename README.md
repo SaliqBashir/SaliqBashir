@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Salik 👋</h1>
+<h1 align="center">Hi there, I'm Saliq 👋</h1>
 <p align="center">
   🧪 Tech Explorer | 🎨 Video Editor | 💻 CS Enthusiast | 🔐 Cyber Dabbler
 </p>
