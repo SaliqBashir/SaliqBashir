@@ -1,33 +1,62 @@
-<h1 align="center">Hi there, I'm Saliq 👋</h1>
+<h1 align="center">Hi, I'm Saliq 👋</h1>
 <p align="center">
-  🧪 Tech Explorer | 🎨 Video Editor | 💻 CS Enthusiast | 🔐 Cyber Dabbler
+  🐍 Python | 🧮 DSA | 🤖 AIML | 🐧 Linux
 </p>
 
 ---
 
-### 💼 About Me
+### 🔭 Currently
 
-- 🎓 B.Tech CSE @ IUST `2028`
-- 🔍 Exploring CS50x, backend dev, and cybersecurity
-- 🎮 Hosted gaming events | ⚡ Built Lockr | 🧠 Always learning
-- 🧰 DaVinci Resolve wizard (motion graphics + color grading)
-- 💡 I believe in building wild, useful things — one project at a time
-
----
-
-### 🚀 Projects & Highlights
-
-- 🔐 **Lockr** – A clean, simple password manager 🔑
-- 🔥 CS50 Final Project – Password manager + C, Python, and SQL in action
-- 🎬 Reel edits, club promos, and design for NodeX, my student tech club
-- 🧪 Building a smart gas leak detector — hardware meets code!
+- Learning **DSA**, **Python**, and **AIML**
+- Exploring **Backend Development** & **Linux tools**
+- Extra: Video editing & small creative projects 🎬
 
 ---
 
 ### 🛠️ Tech Stack
 
-```yaml
-Languages:    C, Python, JavaScript, SQL
-Web:          HTML, CSS, Flask
-Tools:        Git, GitHub, DaVinci Resolve, VS Code
-Learning:     Cybersecurity, C++, Backend Dev
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" />
+  <img alt="C" src="https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-333333?style=for-the-badge&logo=mysql" />
+  <img alt="JS" src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-333333?style=for-the-badge&logo=visual-studio-code" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaliqBashir&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaliqBashir&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saliq-bashir-483b2433a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Saliq-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:businesssaliq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-businesssaliq@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/SaliqBashir">
+    <img src="https://img.shields.io/badge/GitHub-SaliqBashir-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Extras
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaliqBashir&color=blue" alt="Profile Views" />
+</p>
