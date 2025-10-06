@@ -48,10 +48,6 @@
   </a>
 </p>
 
----
-
-### ⚡ Fun Extras
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaliqBashir&color=blue" alt="Profile Views" />
 </p>
