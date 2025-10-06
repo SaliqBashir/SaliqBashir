@@ -19,7 +19,6 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" />
   <img alt="C" src="https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-333333?style=for-the-badge&logo=mysql" />
-  <img alt="JS" src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask" />
@@ -47,9 +46,6 @@
   </a>
   <a href="mailto:businesssaliq@gmail.com">
     <img src="https://img.shields.io/badge/Email-businesssaliq@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://github.com/SaliqBashir">
-    <img src="https://img.shields.io/badge/GitHub-SaliqBashir-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
