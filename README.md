@@ -24,7 +24,6 @@
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-333333?style=for-the-badge&logo=visual-studio-code" />
 </p>
 
 ---
