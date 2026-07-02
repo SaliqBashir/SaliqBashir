@@ -1,0 +1,34 @@
+<svg viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#17171d" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" fill="#0a0a0d"/>
+  <rect width="1200" height="260" fill="url(#grid)"/>
+
+  <text x="600" y="180" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="126" font-weight="700" fill="#1b1b22" text-anchor="middle" letter-spacing="6">0x53414C4951</text>
+
+  <g stroke="#22d3ee" stroke-width="2" fill="none">
+    <path d="M24,64 L24,24 L64,24"/>
+    <path d="M1136,24 L1176,24 L1176,64"/>
+    <path d="M24,196 L24,236 L64,236"/>
+    <path d="M1176,196 L1176,236 L1136,236"/>
+  </g>
+
+  <text x="80" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" font-weight="600" fill="#22d3ee" letter-spacing="3">SYSTEM PROFILE</text>
+  <text x="80" y="63" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#5c5c66" letter-spacing="1">CSE · IUST KASHMIR</text>
+
+  <text x="1160" y="46" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#9aa0ac" letter-spacing="1.5"><tspan fill="#4ade80">●</tspan> STATUS: ACTIVE</text>
+  <text x="1160" y="63" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#4b4b55" letter-spacing="1">REV. 2026.07</text>
+
+  <text x="80" y="142" font-family="Helvetica Neue, Arial, sans-serif" font-size="58" font-weight="800" fill="#edede6" letter-spacing="0.5">SALIQ BASHIR</text>
+  <rect x="80" y="158" width="150" height="4" fill="#22d3ee"/>
+
+  <text x="80" y="192" font-family="Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="400" fill="#b4b8c2">Full-stack engineer — systems &amp; AI/ML, from the terminal up</text>
+
+  <text x="80" y="220" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#6b7280" letter-spacing="1.5">B.TECH CSE   ·   NEOVIM / ZSH / GH CLI   ·   KASHMIR, IN</text>
+
+  <rect x="0.5" y="0.5" width="1199" height="259" fill="none" stroke="#1e1e26" stroke-width="1"/>
+</svg>
